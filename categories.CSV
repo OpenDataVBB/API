@@ -1,8 +1,8 @@
 Kategorien;category;Id;priority
 Information;information;0;50
 Baustelle;construction;1;100
-Störung;disruption;2;100
-Aufzugsstörung;elevator fault;3;100
+Stoerung;disruption;2;100
+Aufzugsstoerung;elevator fault;3;100
 Ausfall der Fahrt;loss of travel;4;100
 Hohe Auslastung;high utilization;5;
 Intern;;;
