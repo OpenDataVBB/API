@@ -1,0 +1,9 @@
+Product category;Bit;Decimal;Category
+Urban train;0;1;S-7
+Subway;1;2;U
+Tram;2;4;T
+Bus;3;8;B
+Ferry;4;16;F
+High Speed train;5;32;IC, ICE
+Regional train;6;64;RB, RE
+Bus requiring surcharge;7;128	
